@@ -1,3 +1,8 @@
+"""
+Made by Gainsboroow 
+Github : https://github.com/Gainsboroow
+"""
+
 from tkinter import *
 from tkinter.messagebox import *
 
