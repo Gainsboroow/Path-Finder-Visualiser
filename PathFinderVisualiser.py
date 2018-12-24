@@ -1,6 +1,14 @@
 """
-Made by Gainsboroow 
+Path Finder Visualiser
+Created by Gainsboroow 
 Github : https://github.com/Gainsboroow
+Github Repository : https://github.com/Gainsboroow/Path-Finder-Visualiser
+
+How to use : 
+Left Click to move the starting point. 
+Right Click to create walls. 
+F5 to start the path finding.
+F4 to reset the Canvas.
 """
 
 from tkinter import *
